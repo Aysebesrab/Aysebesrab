@@ -1,5 +1,6 @@
-- Helloooo !!! Im Ayşe!! Im currently a student in Türkiye, studying computer engineering! 
-- Currently Im a second year student
+- Helloooo !!! Im Ayşe!! Im currently a student in Türkiye, studying computer engineering!
+- future software devoloper <3
+- This year Im a second year student
 - python, c++, html, java 
 - aysebesrab@gmail.com
 - I am also very intrested in art and writing <3
